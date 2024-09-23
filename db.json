@@ -1,5 +1,5 @@
 {
-  'contas': [
+  "contas": [
     {"nome": "João Silva", "numero_da_conta": "123456-7", "saldo": 1500.00},
     {"nome": "Maria Souza", "numero_da_conta": "123451-7", "saldo": 1050.00},
     {"nome": "Pedro Oliveira", "numero_da_conta": "123452-7", "saldo": 1100.00},
